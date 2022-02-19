@@ -1,4 +1,4 @@
-In this repository, we published our pretrained XGBOOST model for age prediction from COVID-19 blood test.
+In this repository, we published our pretrained XGBOOST model for age prediction from COVID-19 blood test (See [2]).
 
 
 
@@ -6,7 +6,7 @@ In this repository, we published our pretrained XGBOOST model for age prediction
 Please cite one of our paper:
 
 (1) Qomariyah, Nunung Nurul, et al. "A Tree-based Mortality Prediction Model of COVID-19 from Routine Blood Samples." 2021 International Conference on ICT for Smart Society (ICISS). IEEE, 2021.
-
+(2) Qomariyah, Nunung Nurul, et al. "An XGBoost Model for Age Prediction from COVID-19 Blood Test." 2021 4th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI). IEEE, 2021.
 
 #### Blood Test Features 
 The feature used in the dataset is as below:
